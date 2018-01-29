@@ -2,7 +2,7 @@ const RtmClient = require('slack-client').RtmClient;
 const WebClient = require('slack-client').WebClient;
 
 // Slack Bot API Key
-const token = 'xoxb-305247720368-Rxx2Xqj8MShCYcBzi23uQiqf';
+const token = 'xoxb-307033985463-tWN8MYr3Pu78jraOnTwyW8Cp';
 
 // 웹 클라이언트와 슬렉 봇 클라이언트 정의
 const web = new WebClient(token);
